@@ -71,7 +71,7 @@ const PUBLICATIONS = [
       "A Pipeline from Raytrix to Tensor Display",
     authors:
       "Wenzhe Ouyang, Shu Fujita, Keita Takahashi, Toshiaki Fujii",
-    image: "./images/tensor_display.png",
+    image: "./images/tensor_display.jpg",
     conference: "SISA 2018",
     links: {
       "project page": "https://github.com/shabiouyang/Raytrix-Light-Field-Video",
