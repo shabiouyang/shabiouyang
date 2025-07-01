@@ -1,7 +1,7 @@
 // Modify the `PUBLICATIONS` object
 
 const PUBLICATIONS = [
-    {
+  {
     title:
       "Octocc: High-resolution 3d occupancy prediction with octree",
     authors:
@@ -17,7 +17,7 @@ const PUBLICATIONS = [
     },
     badges: [],
   },
-   {
+  {
     title:
       "LinkOcc: 3D Semantic Occupancy Prediction with Temporal Association",
     authors:
@@ -34,7 +34,7 @@ const PUBLICATIONS = [
     },
     badges: [],
   },
-    {
+  {
     title:
       "PlanePDM: Boundary-aware 3D Planar Recovery by Using Parallel Dilated Mask Head",
     authors:
@@ -94,6 +94,7 @@ const PUBLICATIONS = [
     },
     badges: ["Best Student Paper"],
   },
+  
 ];
 
 const HIGHLIGHT_NAME = "Wenzhe Ouyang";
