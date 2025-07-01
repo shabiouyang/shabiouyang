@@ -97,7 +97,7 @@ const PUBLICATIONS = [
   
 ];
 
-const HIGHLIGHT_NAME = "Wenzhe Ouyang";
+const HIGHLIGHT_NAME = "wenzhe ouyang";
 
 // Do not touch the code below
 
