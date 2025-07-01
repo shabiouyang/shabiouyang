@@ -3,7 +3,7 @@
 const PUBLICATIONS = [
   {
     title:
-      "Octocc: High-resolution 3D Occupancy Prediction with Octree",
+      "OctOcc: High-resolution 3D Occupancy Prediction with Octree",
     authors:
       "Wenzhe Ouyang, Xiaolin Song, Bailan Feng, Zenglin Xu",
     image: "./images/aaai2024.png",
@@ -36,7 +36,7 @@ const PUBLICATIONS = [
   },
   {
     title:
-      "PlanePDM: Boundary-aware 3D Planar Recovery by Using Parallel Dilated Mask Head",
+      "PlanePDM: Boundary-aware 3D Planar Recovery by using Parallel Dilated Mask Head",
     authors:
       "Wenzhe Ouyang, Zenglin Xu, Qianying Zhu, Bin Shen, Yong Xu",
     image: "./images/planepdm.png",
@@ -53,7 +53,7 @@ const PUBLICATIONS = [
   },
   {
     title:
-      "MixingMask: A contour-aware approach for joint object detection and instance segmentation",
+      "MixingMask: A Contour-aware Approach for Joint Object detection and Instance segmentation",
     authors:
       "Wenzhe Ouyang, Zenglin Xu, Jing Xu, Qifan Wang, Yong Xu",
     image: "./images/mixingmask.png",
@@ -82,7 +82,7 @@ const PUBLICATIONS = [
   },
   {
     title:
-        "3D Imaging System Using Multi-focus Plenoptic Camera and Tensor Display",
+        "3D Imaging System using Multi-focus Plenoptic Camera and Tensor Display",
     authors:
       "Mehrdad Teratani Panahpourtehrani, Shu Fujita, Wenzhe Ouyang, Keita Takahashi, Toshiaki Fujii",
     image: "./images/ic3d.png",
