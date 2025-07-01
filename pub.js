@@ -23,7 +23,7 @@ const PUBLICATIONS = [
     authors:
       "Wenzhe Ouyang, Zenglin Xu, Bin Shen, Jinghua Wang, Yong Xu",
     image: "./images/linkocc.png",
-    journal: "IEEE Transactions on Circuits and Systems for Video Technology",
+    conference: "IEEE Transactions on Circuits and Systems for Video Technology",
     links: {
       "project page": "",
       arxiv: "",
@@ -40,7 +40,7 @@ const PUBLICATIONS = [
     authors:
       "Wenzhe Ouyang, Zenglin Xu, Qianying Zhu, Bin Shen, Yong Xu",
     image: "./images/planepdm.png",
-    journal: "Pattern Recognition",
+    conference: "Pattern Recognition",
     links: {
       "project page": "",
       arxiv: "",
@@ -57,7 +57,7 @@ const PUBLICATIONS = [
     authors:
       "Wenzhe Ouyang, Zenglin Xu, Jing Xu, Qifan Wang, Yong Xu",
     image: "./images/mixingmask.png",
-    journal: "Pattern Recognition",
+    conference: "Pattern Recognition",
     links: {
       paper: "https://www.sciencedirect.com/science/article/abs/pii/S0031320324003716",
       supp: "",
