@@ -72,7 +72,7 @@ const PUBLICATIONS = [
     authors:
       "Wenzhe Ouyang, Shu Fujita, Keita Takahashi, Toshiaki Fujii",
     image: "./images/tensor_display.jpg",
-    conference: "2018 International Workshop on Smart Info-Media Systems in Asia",
+    conference: "The 2018 International Workshop on Smart Info-Media Systems in Asia (SISA2018) ",
     links: {
       "project page": "https://github.com/shabiouyang/Raytrix-Light-Field-Video",
       paper: "./pub/SISA2018_submission",
@@ -86,7 +86,7 @@ const PUBLICATIONS = [
     authors:
       "Mehrdad Teratani Panahpourtehrani, Shu Fujita, Wenzhe Ouyang, Keita Takahashi, Toshiaki Fujii",
     image: "./images/ic3d.png",
-    conference: "2018 International Conference on 3D Immersion (IC3D)",
+    conference: "IEEE International Conference on 3D Immersion (IC3D), 2018",
     links: {
       arxiv: "",
       paper: "https://ieeexplore.ieee.org/document/8657863",
