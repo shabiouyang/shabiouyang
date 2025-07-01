@@ -3,7 +3,7 @@
 const PUBLICATIONS = [
   {
     title:
-      "Octocc: High-resolution 3d occupancy prediction with octree",
+      "Octocc: High-resolution 3D Occupancy Prediction with Octree",
     authors:
       "Wenzhe Ouyang, Xiaolin Song, Bailan Feng, Zenglin Xu",
     image: "./images/aaai2024.png",
@@ -68,6 +68,20 @@ const PUBLICATIONS = [
   },
   {
     title:
+      "A Pipeline from Raytrix to Tensor Display",
+    authors:
+      "Wenzhe Ouyang, Shu Fujita, Keita Takahashi, Toshiaki Fujii",
+    image: "./images/tensor_display.png",
+    conference: "SISA 2018",
+    links: {
+      "project page": "https://github.com/shabiouyang/Raytrix-Light-Field-Video",
+      paper: "./pub/SISA2018_submission",
+      code: "https://github.com/shabiouyang/Raytrix-Light-Field-Video",
+    },
+    badges: ["Best Student Paper"],
+  },
+  {
+    title:
         "3D Imaging System Using Multi-focus Plenoptic Camera and Tensor Display",
     authors:
       "Mehrdad Teratani Panahpourtehrani, Shu Fujita, Wenzhe Ouyang, Keita Takahashi, Toshiaki Fujii",
@@ -79,20 +93,6 @@ const PUBLICATIONS = [
       code: "",
     },
     badges: [],
-  },
-  {
-    title:
-      "A Pipeline from Raytrix to Tensor Display",
-    authors:
-      "Wenzhe Ouyang, Shu Fujita, Keita Takahashi, Toshiaki Fujii",
-    image: "./image/tensor_display.png",
-    conference: "SISA 2018",
-    links: {
-      "project page": "https://github.com/shabiouyang/Raytrix-Light-Field-Video",
-      paper: "./pub/SISA2018_submission",
-      code: "https://github.com/shabiouyang/Raytrix-Light-Field-Video",
-    },
-    badges: ["Best Student Paper"],
   },
   
 ];
