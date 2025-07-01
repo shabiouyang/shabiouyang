@@ -151,3 +151,19 @@ span.badge {
   padding-bottom: .05em;
   border-radius: 10rem;
 }
+
+/* 全局鼠标样式 */
+body {
+    cursor: default; /* 默认箭头，可替换为其他值 */
+    /* 或自定义图标：cursor: url('images/custom-cursor.png'), default; */
+}
+
+/* 鼠标悬停在链接上的样式 */
+a {
+    cursor: pointer; /* 手型图标，适用于可点击链接 */
+}
+
+/* 鼠标悬停在图片上的样式 */
+img {
+    cursor: zoom-in; /* 缩放图标，可根据需求调整 */
+}
