@@ -7,7 +7,7 @@ const PUBLICATIONS = [
     authors:
       "Wenzhe Ouyang, Xiaolin Song, Bailan Feng, Zenglin Xu",
     image: "./images/aaai2024.png",
-    conference: "The 38th Annual AAAI Conference on Artificial Intelligence(AAAI 2024)",
+    conference: "The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024)",
     links: {
       arxiv: "",
       paper: "https://ojs.aaai.org/index.php/AAAI/article/view/28234",
@@ -72,7 +72,7 @@ const PUBLICATIONS = [
     authors:
       "Wenzhe Ouyang, Shu Fujita, Keita Takahashi, Toshiaki Fujii",
     image: "./images/tensor_display.jpg",
-    conference: "SISA 2018",
+    conference: "2018 International Workshop on Smart Info-Media Systems in Asia (SISA 2018)",
     links: {
       "project page": "https://github.com/shabiouyang/Raytrix-Light-Field-Video",
       paper: "./pub/SISA2018_submission",
@@ -86,7 +86,7 @@ const PUBLICATIONS = [
     authors:
       "Mehrdad Teratani Panahpourtehrani, Shu Fujita, Wenzhe Ouyang, Keita Takahashi, Toshiaki Fujii",
     image: "./images/ic3d.png",
-    conference: "IC3D 2018",
+    conference: "2018 International Conference on 3D Immersion (IC3D)",
     links: {
       arxiv: "",
       paper: "https://ieeexplore.ieee.org/document/8657863",
