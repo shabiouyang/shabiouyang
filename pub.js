@@ -8,10 +8,10 @@ const PUBLICATIONS = [
       "Wenzhe Ouyang, Qi Ye, Jinghua Wang, Zenglin Xu, Jiming Chen",
     image: "./images/nips.png",
     conference: "The Thirty-ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)",
-    links: {
-      paper: "Coming Soon",
-      code is coming soon: "Coming Soon",
-    },
+    // links: {
+    //   paper: "Coming Soon",
+    //   code is coming soon: "Coming Soon",
+    // },
     badges: [],
   },
   {
