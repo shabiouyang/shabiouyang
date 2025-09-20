@@ -10,7 +10,7 @@ const PUBLICATIONS = [
     conference: "The Thirty-ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)",
     links: {
       paper: "Coming Soon",
-      code: "Coming Soon",
+      code is coming soon: "Coming Soon",
     },
     badges: [],
   },
