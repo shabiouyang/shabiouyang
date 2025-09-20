@@ -1,6 +1,19 @@
 // Modify the `PUBLICATIONS` object
 
 const PUBLICATIONS = [
+    {
+    title:
+      "RFMPose: Generative Category-level Object Pose Estimation via Riemannian Flow Matching",
+    authors:
+      "Wenzhe Ouyang, Qi Ye, Jinghua Wang, Zenglin Xu, Jiming Chen",
+    image: "./images/nips.png",
+    conference: "The Thirty-ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)",
+    links: {
+      paper: "Coming Soon",
+      code: "Coming Soon",
+    },
+    badges: [],
+  },
   {
     title:
       "OctOcc: High-resolution 3D Occupancy Prediction with Octree",
